@@ -1,5 +1,5 @@
 rm -rf database-demo-deps
-rm -rf movieRecommenderSystem-deps
+rm -rf movie-recommender-system
 
 cp -R ../SpringCourse/Docker/database-demo-deps .
-cp -R ../SpringCourse/Docker/movieRecommenderSystem-deps .
+cp -R ../SpringCourse/Docker/movie-recommender-system-deps .
